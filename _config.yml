@@ -1,0 +1,3 @@
+# GitHub Pages (Jekyll) : inclure les assets Next.js
+include:
+  - _next
